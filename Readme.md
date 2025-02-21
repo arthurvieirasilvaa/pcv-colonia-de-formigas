@@ -8,7 +8,7 @@
 
 ## 📖 Objetivo:
 
-Este trabalho consiste em implementar o algoritmo baseado em colônia de formigas para solucionar o Problema do Caixeiro Viajante (PCV).
+Este trabalho consiste em implementar um algoritmo baseado em colônia de formigas para solucionar o Problema do Caixeiro Viajante (PCV).
 Será definida a estrutura de dados que será utilizada para armazenar as formigas, suas soluções e seus respectivos valores de fitness,
 além de armazenar ainda a quantidade de feromônio por aresta, de forma que seja viável a atualização desses valores.
 
