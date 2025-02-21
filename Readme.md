@@ -23,9 +23,10 @@ além de armazenar ainda a quantidade de feromônio por aresta, de forma que sej
 - **Sys**
 
 ## 📝 Testes utilizados:
-    - [teste1.txt](./teste1.txt): Possui um conjunto de 15 cidades.
-    - [teste2.txt](./teste2.txt): Possui um conjunto de 5 cidades.
-    - [teste3.txt](./teste3.txt): Possui um conjunto de 7 cidades.
+
+- [teste1.txt](./teste1.txt): Possui um conjunto de 15 cidades.
+- [teste2.txt](./teste2.txt): Possui um conjunto de 5 cidades.
+- [teste3.txt](./teste3.txt): Possui um conjunto de 7 cidades.
 
 ## 🚀 Execução
 
